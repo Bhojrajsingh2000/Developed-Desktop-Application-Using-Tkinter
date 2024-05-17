@@ -1,0 +1,8 @@
+1. After Downlod file from github
+2. install xammp server application and impport database file
+3. install pillow using pip command
+        pip install pillow
+4. install mysql using pip command
+        pip install mysql
+5. open folder in vs code editor
+6. Run program
