@@ -1,0 +1,1 @@
+# root.iconbitmap('notepad.ico')
