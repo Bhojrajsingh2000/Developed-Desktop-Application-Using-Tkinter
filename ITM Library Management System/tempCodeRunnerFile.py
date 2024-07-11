@@ -1,0 +1,1 @@
+cur.execute('drop table if exists user')
